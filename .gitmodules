@@ -1,0 +1,45 @@
+[submodule "libft"]
+	path = libft
+	url = git@github.com:dhubleur-42-projects/libft.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = git@github.com:dhubleur-42-projects/ft_printf.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:dhubleur-42-projects/get_next_line.git
+[submodule "fdf"]
+	path = fdf
+	url = git@github.com:dhubleur-42-projects/fdf.git
+[submodule "minitalk"]
+	path = minitalk
+	url = git@github.com:dhubleur-42-projects/minitalk.git
+[submodule "push_swap"]
+	path = push_swap
+	url = git@github.com:dhubleur-42-projects/push_swap.git
+[submodule "philosophers"]
+	path = philosophers
+	url = git@github.com:dhubleur-42-projects/philosophers.git
+[submodule "minishell"]
+	path = minishell
+	url = git@github.com:dhubleur-42-projects/minishell.git
+[submodule "CPP-modules"]
+	path = CPP-modules
+	url = git@github.com:dhubleur-42-projects/CPP-modules.git
+[submodule "netpractice"]
+	path = netpractice
+	url = git@github.com:dhubleur-42-projects/netpractice.git
+[submodule "born2beroot"]
+	path = born2beroot
+	url = git@github.com:dhubleur-42-projects/born2beroot.git
+[submodule "miniRT"]
+	path = miniRT
+	url = git@github.com:dhubleur-42-projects/miniRT.git
+[submodule "ft_irc"]
+	path = ft_irc
+	url = git@github.com:dhubleur-42-projects/ft_irc.git
+[submodule "ft_containers"]
+	path = ft_containers
+	url = git@github.com:dhubleur-42-projects/ft_containers.git
+[submodule "inception"]
+	path = inception
+	url = git@github.com:dhubleur-42-projects/inception.git
