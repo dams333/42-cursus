@@ -43,3 +43,12 @@
 [submodule "inception"]
 	path = inception
 	url = git@github.com:dhubleur-42-projects/inception.git
+[submodule "rushes/rush-libunit"]
+	path = rushes/rush-libunit
+	url = git@github.com:dhubleur-42-projects/rush-libunit.git
+[submodule "rushes/rush-wordle"]
+	path = rushes/rush-wordle
+	url = git@github.com:dhubleur-42-projects/rush-wordle.git
+[submodule "rushes/rush-ft_shmup"]
+	path = rushes/rush-ft_shmup
+	url = git@github.com:dhubleur-42-projects/rush-ft_shmup.git

@@ -51,3 +51,11 @@
 [![dhubleur's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl17mmix8000609mjfyxevavs/project/2863700)](https://github.com/JaeSeoKim/badge42)
 - inception:
 [![dhubleur's 42 Inception Score](https://badge42.vercel.app/api/v2/cl17mmix8000609mjfyxevavs/project/2863699)](https://github.com/JaeSeoKim/badge42)
+
+# Rushes
+- libunit:
+[![dhubleur's 42 Libunit Score](https://badge42.vercel.app/api/v2/cl17mmix8000609mjfyxevavs/project/2451881)](https://github.com/JaeSeoKim/badge42)
+- wordle:
+[![dhubleur's 42 wordle Score](https://badge42.vercel.app/api/v2/cl17mmix8000609mjfyxevavs/project/2587384)](https://github.com/JaeSeoKim/badge42)
+- ft_shmup:
+[![dhubleur's 42 ft_shmup  Score](https://badge42.vercel.app/api/v2/cl17mmix8000609mjfyxevavs/project/2749579)](https://github.com/JaeSeoKim/badge42)
