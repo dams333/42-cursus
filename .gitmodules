@@ -52,3 +52,6 @@
 [submodule "rushes/rush-ft_shmup"]
 	path = rushes/rush-ft_shmup
 	url = git@github.com:dhubleur-42-projects/rush-ft_shmup.git
+[submodule "ft_transcendence"]
+	path = ft_transcendence
+	url = git@github.com:dhubleur-42-projects/ft_transcendence.git
