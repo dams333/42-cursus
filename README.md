@@ -51,6 +51,9 @@
 [![dhubleur's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl17mmix8000609mjfyxevavs/project/2863700)](https://github.com/JaeSeoKim/badge42)
 - inception:
 [![dhubleur's 42 Inception Score](https://badge42.vercel.app/api/v2/cl17mmix8000609mjfyxevavs/project/2863699)](https://github.com/JaeSeoKim/badge42)
+# Rank06
+- ft_transcendence
+[![dhubleur's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl17mmix8000609mjfyxevavs/project/2896503)](https://github.com/JaeSeoKim/badge42)
 
 # Rushes
 - libunit:
