@@ -55,3 +55,6 @@
 [submodule "ft_transcendence"]
 	path = ft_transcendence
 	url = git@github.com:dhubleur-42-projects/ft_transcendence.git
+[submodule "CompoturV1"]
+	path = CompoturV1
+	url = git@github.com:dhubleur-42-projects/ComputorV1.git

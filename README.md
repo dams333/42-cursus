@@ -54,6 +54,9 @@
 # Rank06
 - ft_transcendence
 [![dhubleur's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl17mmix8000609mjfyxevavs/project/2896503)](https://github.com/JaeSeoKim/badge42)
+# Post Common-Core
+- ComputorV1
+[![dhubleur's 42 computorv1 Score](https://badge42.vercel.app/api/v2/cl17mmix8000609mjfyxevavs/project/2990283)](https://github.com/JaeSeoKim/badge42)
 
 # Rushes
 - libunit:
